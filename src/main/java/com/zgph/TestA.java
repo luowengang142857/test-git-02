@@ -16,11 +16,16 @@ public class TestA {
         int a = 123;
 
 
+        System.out.println("-----------------update乱来的------------------");
+        System.out.println("i want delete from it");
+
 
         long result = Long.parseLong(os);
 
         if(result > a){
             System.out.println("result > a");
+
+            System.out.println(result + "i want delte it");
         }
 
         System.out.println(result);
