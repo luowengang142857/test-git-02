@@ -9,7 +9,9 @@ public class TestA {
 
         System.out.println("aaaa------------");
 
-        String os = "13457";
+        String os = "13457000";
+
+
 
         long result = Long.parseLong(os);
 
